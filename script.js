@@ -1,1 +1,1 @@
-alert("Vai São Paulo!")
+alert("Vai!")
